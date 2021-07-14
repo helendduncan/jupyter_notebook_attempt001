@@ -43,4 +43,4 @@ jobs:
       # Do something funky with the notebook
       - name: Build the book
         run: |
-          jupyter-book build .
+          jupyter-book build mynewbook

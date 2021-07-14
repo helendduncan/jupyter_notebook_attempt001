@@ -1,0 +1,4 @@
+title: "My book title"
+logo: images/tortoise.jpg
+execute:
+  execute_notebooks: "off"
